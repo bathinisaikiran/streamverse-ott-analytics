@@ -1,0 +1,301 @@
+content_id,title,type,genre_id,language,release_year,duration_min,imdb_rating,maturity_rating
+1,Electric Code,Movie,12,Telugu,2006,123,5.0,A
+2,Broken Signal,Series,3,Telugu,2022,50,8.3,U/A 16+
+3,Last Echo,Series,5,Hindi,2009,53,3.5,U/A 16+
+4,Golden Legacy,Movie,8,Hindi,2022,123,6.7,U/A 16+
+5,Shadow Streets,Series,1,Telugu,2018,42,7.0,A
+6,Fallen Legacy,Series,7,Telugu,2013,50,4.5,U
+7,Lost Echo,Movie,4,Telugu,2007,161,7.2,U/A 13+
+8,Electric Journey,Movie,6,English,2011,169,6.1,A
+9,Distant Legacy,Movie,4,English,2019,100,6.6,U
+10,Shadow Gambit,Series,11,Telugu,2009,45,8.1,U/A 16+
+11,Burning Horizon,Movie,6,English,2018,157,6.9,U/A 16+
+12,Royal Echo,Movie,10,Hindi,2009,121,6.4,A
+13,Burning Promise,Series,1,Malayalam,2006,44,6.6,A
+14,Last Horizon,Series,9,Hindi,2017,45,8.6,U/A 13+
+15,Midnight Journey,Movie,5,Telugu,2021,114,7.2,U/A 16+
+16,Neon Legacy,Series,8,Hindi,2024,57,5.9,U/A 16+
+17,Silent Signal,Series,11,Telugu,2015,47,6.3,U/A 16+
+18,Rising Promise,Movie,9,Telugu,2017,123,5.6,U/A 13+
+19,Rising Gambit,Series,5,Hindi,2018,31,6.3,U/A 13+
+20,Rising Streets,Movie,3,English,2013,143,8.4,U/A 16+
+21,Lost Journey,Series,11,Telugu,2005,40,6.6,U
+22,Burning Mirage,Movie,4,Hindi,2009,161,5.5,U/A 16+
+23,Broken Kingdom,Series,1,Malayalam,2012,53,7.2,U
+24,Midnight Chronicles,Movie,4,Hindi,2018,146,6.4,A
+25,Distant Journey,Movie,1,Telugu,2011,144,7.4,A
+26,Crimson Verdict,Series,9,Tamil,2009,50,6.6,U/A 16+
+27,Lost Kingdom,Movie,11,Telugu,2023,118,8.2,A
+28,Lost Horizon,Series,6,English,2006,51,5.9,A
+29,Electric Kingdom,Movie,8,Hindi,2020,122,5.6,U/A 16+
+30,Midnight Verdict,Movie,12,Telugu,2006,104,7.7,U/A 16+
+31,Midnight Horizon,Series,12,English,2011,45,,U/A 13+
+32,Shadow Journey,Movie,1,Malayalam,2022,116,6.6,A
+33,Golden Rivals,Series,1,English,2021,47,7.6,U/A 16+
+34,Neon Diaries,Movie,5,Hindi,2012,150,4.6,U/A 13+
+35,Eternal Promise,Movie,4,Tamil,2005,141,6.9,U/A 16+
+36,Silent Journey,Series,2,Kannada,2023,47,5.3,U/A 13+
+37,Frozen Empire,Movie,2,Hindi,2022,151,5.0,U/A 16+
+38,Eternal Frontier,Movie,10,Kannada,2014,143,5.7,A
+39,Eternal Empire,Movie,3,English,2005,116,6.6,U
+40,Distant Empire,Series,6,Malayalam,2018,37,6.1,U
+41,Silent Horizon,Movie,1,Telugu,2020,150,7.9,A
+42,Silent Promise,Movie,8,Kannada,2021,146,6.9,U
+43,Secret Empire,Movie,9,Malayalam,2019,100,6.3,U/A 16+
+44,Shadow Horizon,Series,8,English,2022,32,5.5,U/A 13+
+45,Distant Mirage,Movie,4,Kannada,2015,144,,U/A 16+
+46,Distant Rivals,Movie,1,English,2008,107,8.9,U
+47,Golden Chronicles,Series,5,Tamil,2018,50,6.1,U
+48,Fallen Streets,Series,10,English,2009,37,6.2,U/A 16+
+49,Silent Echo,Series,2,English,2017,49,5.7,U/A 13+
+50,Electric Echo,Movie,10,English,2008,112,,U/A 16+
+51,Shadow Rivals,Movie,11,Tamil,2005,134,7.7,A
+52,Hidden Kingdom,Movie,8,Tamil,2013,151,6.4,A
+53,Distant Echo,Movie,11,Malayalam,2016,132,6.2,U/A 13+
+54,Fallen Code,Series,4,Telugu,2008,38,5.9,U/A 13+
+55,Lost Frontier,Movie,8,English,2020,114,6.5,U
+56,Secret Tides,Movie,9,Tamil,2018,116,7.8,U/A 16+
+57,Shadow Legacy,Movie,9,English,2021,148,6.8,U/A 13+
+58,Fallen Chronicles,Series,9,Hindi,2012,49,8.1,A
+59,Hidden Rivals,Movie,3,Tamil,2018,78,6.1,U/A 16+
+60,Silent Empire,Series,11,Telugu,2024,41,4.5,U
+61,Fallen Gambit,Movie,9,English,2008,136,9.4,U/A 13+
+62,Eternal Streets,Movie,2,English,2021,151,7.0,U/A 16+
+63,Lost Empire,Series,8,Tamil,2017,45,7.6,A
+64,Secret Harvest,Movie,11,Tamil,2019,132,6.0,U/A 13+
+65,Wild Streets,Series,1,Hindi,2017,45,5.4,U/A 16+
+66,Distant Frontier,Series,11,Tamil,2018,62,7.0,U
+67,Royal Diaries,Series,4,Malayalam,2020,48,4.8,A
+68,Fallen Tides,Movie,4,English,2005,126,6.5,U/A 16+
+69,Crimson Kingdom,Movie,6,Telugu,2005,138,7.8,U/A 16+
+70,Frozen Streets,Movie,9,Tamil,2006,115,7.2,U/A 13+
+71,Last Tides,Series,2,English,2023,43,7.1,A
+72,Last Diaries,Movie,4,Tamil,2013,82,8.5,U/A 16+
+73,Golden Frontier,Movie,10,Tamil,2024,141,7.2,U
+74,Midnight Mirage,Series,3,Malayalam,2023,45,4.9,U/A 16+
+75,Wild Code,Movie,5,Malayalam,2011,137,6.7,U/A 13+
+76,Hidden Echo,Movie,8,Telugu,2006,106,8.7,A
+77,Distant Tides,Series,4,Tamil,2021,46,6.5,U/A 16+
+78,Broken Verdict,Movie,1,Tamil,2013,142,8.7,U/A 13+
+79,Royal Journey,Movie,7,Malayalam,2010,157,7.8,U/A 13+
+80,Burning Verdict,Movie,2,Hindi,2020,134,6.4,A
+81,Last Promise,Movie,5,Telugu,2014,146,5.7,A
+82,Fallen Mirage,Movie,8,Tamil,2011,121,7.1,U/A 16+
+83,Fallen Verdict,Series,9,Hindi,2012,47,8.1,U/A 16+
+84,Neon Empire,Movie,12,Hindi,2023,155,5.2,U/A 13+
+85,Wild Empire,Movie,11,Kannada,2011,124,6.9,U/A 13+
+86,Neon Echo,Series,1,Hindi,2023,44,4.8,A
+87,Golden Gambit,Series,6,Telugu,2016,56,6.5,U/A 16+
+88,Burning Diaries,Movie,1,Telugu,2006,118,5.1,U
+89,Shadow Storm,Series,10,Hindi,2007,48,,U/A 13+
+90,Last Journey,Movie,1,Telugu,2017,168,6.1,U/A 13+
+91,Neon Frontier,Movie,10,Hindi,2007,130,8.0,U/A 13+
+92,Fallen Echo,Series,1,Telugu,2007,42,6.3,A
+93,Fallen Signal,Movie,2,Tamil,2014,168,6.2,U
+94,Silent Diaries,Movie,12,Hindi,2013,127,5.2,U/A 13+
+95,Lost Verdict,Series,3,Tamil,2023,43,7.2,A
+96,Frozen Frontier,Movie,6,Kannada,2022,123,7.3,U
+97,Distant Storm,Movie,7,Kannada,2023,133,7.7,U/A 13+
+98,Last Legacy,Series,9,Hindi,2006,46,7.5,U/A 16+
+99,Rising Diaries,Movie,12,Hindi,2021,175,7.2,U/A 13+
+100,Lost Rivals,Movie,5,English,2023,154,7.4,U/A 13+
+101,Golden Echo,Movie,8,Hindi,2017,165,7.5,U/A 16+
+102,Wild Rivals,Movie,12,English,2024,114,7.7,A
+103,Crimson Legacy,Movie,2,Tamil,2021,93,5.3,A
+104,Wild Verdict,Series,6,Telugu,2018,54,6.3,U
+105,Fallen Promise,Movie,4,Hindi,2013,180,5.2,U/A 16+
+106,Lost Gambit,Series,12,Malayalam,2012,57,7.1,U/A 16+
+107,Royal Storm,Movie,8,Tamil,2012,151,8.4,U/A 13+
+108,Hidden Promise,Movie,8,English,2010,110,7.7,U/A 13+
+109,Midnight Code,Series,3,English,2016,36,6.2,U/A 16+
+110,Silent Gambit,Movie,12,Tamil,2013,128,7.3,U/A 13+
+111,Burning Tides,Movie,1,Hindi,2010,172,7.1,A
+112,Broken Mirage,Series,6,Tamil,2008,48,7.0,U
+113,Last Harvest,Movie,9,Telugu,2015,89,5.5,U
+114,Secret Kingdom,Movie,11,Tamil,2005,143,8.1,A
+115,Electric Gambit,Movie,4,Telugu,2012,107,5.6,A
+116,Electric Horizon,Series,5,Malayalam,2006,62,6.4,U/A 13+
+117,Eternal Horizon,Movie,1,English,2011,140,7.8,U/A 16+
+118,Secret Signal,Series,8,Telugu,2018,47,6.4,A
+119,Shadow Echo,Series,3,English,2017,39,6.9,U/A 13+
+120,Crimson Code,Series,8,English,2005,53,6.9,U/A 16+
+121,Shadow Mirage,Movie,2,English,2019,137,6.9,U/A 16+
+122,Electric Chronicles,Movie,6,Hindi,2011,157,6.9,U/A 13+
+123,Hidden Frontier,Series,6,Tamil,2014,50,7.0,A
+124,Rising Storm,Series,7,Tamil,2018,35,6.9,A
+125,Neon Rivals,Movie,4,Hindi,2005,115,5.9,U/A 13+
+126,Golden Code,Movie,3,Tamil,2008,135,5.2,U
+127,Golden Promise,Series,10,Hindi,2008,57,7.8,A
+128,Eternal Chronicles,Series,11,Malayalam,2011,37,7.8,U/A 16+
+129,Silent Chronicles,Series,4,Kannada,2005,40,7.1,U
+130,Crimson Journey,Series,6,Hindi,2005,48,,U/A 16+
+131,Frozen Tides,Movie,2,Hindi,2015,128,5.9,U/A 16+
+132,Hidden Gambit,Series,2,Hindi,2007,56,4.4,U
+133,Neon Streets,Series,5,Malayalam,2013,37,6.6,U/A 13+
+134,Neon Storm,Movie,9,Telugu,2009,174,4.9,A
+135,Burning Streets,Movie,9,English,2024,155,7.0,A
+136,Frozen Gambit,Movie,9,English,2007,136,8.1,U/A 13+
+137,Neon Mirage,Movie,2,Hindi,2014,97,6.2,U
+138,Shadow Promise,Series,1,English,2014,59,6.2,U/A 13+
+139,Neon Kingdom,Movie,4,Hindi,2019,143,5.8,U/A 16+
+140,Golden Harvest,Series,4,Hindi,2007,36,6.8,U/A 13+
+141,Frozen Echo,Movie,7,Malayalam,2024,107,6.8,U/A 16+
+142,Distant Streets,Movie,8,Hindi,2011,147,5.8,U
+143,Neon Code,Movie,3,Telugu,2005,161,7.7,A
+144,Lost Harvest,Movie,10,Tamil,2019,110,9.5,A
+145,Burning Harvest,Series,9,English,2015,57,8.0,U/A 16+
+146,Broken Frontier,Movie,4,Tamil,2018,114,6.7,U/A 13+
+147,Royal Harvest,Series,8,Hindi,2023,34,6.7,U/A 16+
+148,Silent Streets,Series,4,English,2012,28,6.3,U/A 13+
+149,Silent Frontier,Movie,1,Hindi,2023,123,,U/A 13+
+150,Lost Mirage,Movie,9,Hindi,2023,123,,U/A 16+
+151,Electric Mirage,Series,2,Hindi,2015,47,7.8,A
+152,Silent Verdict,Movie,3,Tamil,2020,148,5.6,A
+153,Burning Frontier,Movie,4,English,2005,154,7.2,U/A 13+
+154,Secret Chronicles,Series,11,Telugu,2017,44,7.9,U/A 16+
+155,Burning Journey,Movie,8,Telugu,2006,137,6.4,U/A 13+
+156,Neon Promise,Series,10,English,2013,53,6.6,U/A 16+
+157,Lost Legacy,Movie,11,Hindi,2019,128,7.5,U/A 13+
+158,Rising Journey,Series,11,Hindi,2006,51,7.5,U/A 16+
+159,Wild Chronicles,Series,8,Tamil,2013,54,7.2,A
+160,Last Signal,Movie,5,Tamil,2013,141,7.1,U/A 13+
+161,Broken Diaries,Movie,5,Telugu,2009,127,7.2,A
+162,Frozen Kingdom,Movie,2,English,2015,133,6.5,U/A 16+
+163,Broken Code,Movie,8,Telugu,2021,154,5.7,U/A 16+
+164,Burning Echo,Series,8,English,2024,44,5.2,U/A 16+
+165,Hidden Chronicles,Series,12,English,2023,43,7.4,U/A 13+
+166,Midnight Streets,Series,3,Telugu,2024,48,6.9,U/A 13+
+167,Electric Legacy,Series,10,English,2009,39,,U
+168,Secret Frontier,Movie,4,English,2007,126,6.0,U/A 16+
+169,Broken Chronicles,Movie,1,Kannada,2008,111,6.9,U/A 13+
+170,Eternal Verdict,Series,5,English,2024,41,6.9,U/A 13+
+171,Electric Frontier,Movie,12,Hindi,2009,98,8.1,A
+172,Eternal Gambit,Movie,6,Tamil,2020,144,7.7,U/A 16+
+173,Midnight Rivals,Movie,3,English,2013,145,6.1,U
+174,Golden Empire,Movie,4,English,2018,132,7.3,U/A 16+
+175,Eternal Tides,Series,9,Hindi,2020,57,6.1,U/A 13+
+176,Distant Kingdom,Movie,4,English,2023,123,4.2,U/A 16+
+177,Royal Promise,Series,3,Hindi,2006,53,8.5,U
+178,Shadow Kingdom,Series,3,Kannada,2011,46,,U
+179,Broken Harvest,Series,1,Hindi,2007,58,7.8,A
+180,Shadow Tides,Series,9,Telugu,2012,53,6.1,U/A 13+
+181,Royal Mirage,Series,4,Hindi,2012,63,6.0,U
+182,Silent Storm,Movie,4,Kannada,2022,87,6.3,U/A 13+
+183,Last Rivals,Series,4,English,2019,47,7.1,U/A 13+
+184,Frozen Legacy,Series,9,Hindi,2007,31,7.0,A
+185,Broken Promise,Series,11,Malayalam,2013,41,7.3,U
+186,Golden Signal,Movie,9,Hindi,2019,127,6.3,U
+187,Wild Kingdom,Movie,7,Hindi,2019,127,6.8,A
+188,Frozen Mirage,Series,9,Telugu,2021,53,6.0,U/A 13+
+189,Royal Signal,Series,3,Hindi,2009,49,8.3,U
+190,Broken Legacy,Movie,11,Tamil,2022,158,,U
+191,Distant Promise,Movie,8,Telugu,2023,165,6.0,A
+192,Shadow Frontier,Movie,12,Telugu,2009,164,6.4,U/A 16+
+193,Hidden Code,Series,4,Hindi,2018,41,9.2,U/A 16+
+194,Broken Echo,Series,2,Hindi,2018,23,7.6,U/A 16+
+195,Midnight Tides,Series,9,Tamil,2022,44,5.9,U/A 16+
+196,Broken Rivals,Series,4,Tamil,2006,47,7.6,U/A 16+
+197,Golden Verdict,Movie,3,Telugu,2009,128,7.3,A
+198,Hidden Signal,Movie,10,Telugu,2022,125,7.1,U/A 16+
+199,Last Empire,Movie,7,English,2005,159,7.5,A
+200,Crimson Storm,Movie,10,English,2014,132,6.9,U
+201,Hidden Streets,Series,3,Tamil,2010,35,7.0,U/A 13+
+202,Midnight Harvest,Series,1,Tamil,2017,39,5.2,U/A 16+
+203,Rising Horizon,Movie,5,Kannada,2014,144,8.2,U/A 13+
+204,Secret Journey,Movie,12,English,2022,144,6.4,U
+205,Royal Streets,Series,8,Hindi,2006,56,5.6,U
+206,Hidden Mirage,Movie,11,Malayalam,2015,104,6.3,U/A 13+
+207,Frozen Chronicles,Movie,11,Tamil,2015,136,6.3,A
+208,Rising Signal,Series,11,Tamil,2015,43,6.0,U
+209,Shadow Chronicles,Series,6,English,2006,58,,U/A 16+
+210,Frozen Storm,Movie,3,Hindi,2014,145,7.8,U
+211,Shadow Code,Movie,11,Malayalam,2022,156,4.8,U/A 16+
+212,Golden Horizon,Movie,7,Telugu,2017,118,6.3,U/A 13+
+213,Last Streets,Movie,4,Hindi,2007,164,6.4,U
+214,Crimson Tides,Movie,6,Telugu,2019,101,6.6,U/A 13+
+215,Neon Signal,Movie,10,English,2023,142,8.5,U/A 13+
+216,Fallen Frontier,Movie,5,Hindi,2021,112,6.0,U/A 13+
+217,Silent Code,Movie,10,Hindi,2006,117,8.4,U/A 16+
+218,Fallen Rivals,Series,3,Malayalam,2005,48,6.7,A
+219,Last Frontier,Movie,4,Telugu,2008,122,8.4,U/A 16+
+220,Golden Streets,Movie,2,Telugu,2011,73,6.5,U/A 16+
+221,Fallen Kingdom,Movie,11,Tamil,2023,142,6.4,U/A 16+
+222,Lost Diaries,Movie,11,Hindi,2013,146,6.8,U/A 13+
+223,Lost Chronicles,Series,3,Telugu,2024,43,8.1,U/A 16+
+224,Hidden Storm,Movie,7,Hindi,2006,125,,U/A 16+
+225,Eternal Rivals,Series,10,Hindi,2020,43,7.0,U/A 13+
+226,Silent Harvest,Series,8,Hindi,2020,49,7.4,U/A 16+
+227,Wild Signal,Movie,8,English,2024,94,5.9,U/A 13+
+228,Distant Gambit,Series,4,Hindi,2015,34,7.1,U
+229,Neon Chronicles,Movie,1,Tamil,2017,151,6.2,U/A 16+
+230,Burning Chronicles,Movie,12,Hindi,2005,142,8.3,U/A 16+
+231,Silent Tides,Movie,11,Kannada,2022,138,7.2,U/A 16+
+232,Midnight Promise,Series,12,English,2017,50,7.5,U/A 13+
+233,Midnight Legacy,Series,1,Hindi,2019,54,4.8,U/A 16+
+234,Wild Tides,Series,9,English,2011,57,7.5,A
+235,Wild Echo,Series,4,Hindi,2006,48,6.6,U
+236,Neon Horizon,Series,4,Telugu,2019,31,5.4,U/A 16+
+237,Rising Tides,Movie,5,Hindi,2019,124,6.9,U/A 13+
+238,Distant Harvest,Series,3,Tamil,2008,53,5.3,U/A 16+
+239,Midnight Gambit,Movie,8,Hindi,2021,161,7.4,U/A 13+
+240,Wild Frontier,Series,8,Hindi,2005,44,8.2,U/A 16+
+241,Royal Chronicles,Movie,12,English,2018,125,5.0,U
+242,Wild Diaries,Movie,10,Malayalam,2006,124,6.8,U
+243,Hidden Empire,Movie,9,Malayalam,2020,153,6.6,U
+244,Distant Signal,Movie,12,Tamil,2013,101,4.8,U/A 13+
+245,Rising Code,Series,6,Tamil,2011,48,7.7,A
+246,Secret Horizon,Movie,1,Tamil,2019,146,7.4,U
+247,Last Chronicles,Movie,11,Hindi,2021,149,8.8,U
+248,Midnight Diaries,Series,5,English,2017,38,7.3,A
+249,Crimson Rivals,Series,6,Telugu,2019,47,5.9,U/A 13+
+250,Electric Storm,Series,5,Malayalam,2005,45,7.3,U/A 16+
+251,Royal Horizon,Series,11,Hindi,2021,33,8.1,U
+252,Rising Empire,Movie,5,Hindi,2016,132,6.3,A
+253,Crimson Empire,Movie,9,Hindi,2008,140,7.7,U/A 16+
+254,Wild Legacy,Movie,9,English,2014,101,4.4,U
+255,Midnight Empire,Movie,7,Hindi,2017,119,8.3,U/A 16+
+256,Eternal Kingdom,Movie,7,Tamil,2020,96,7.6,U/A 13+
+257,Royal Empire,Series,1,Hindi,2015,51,4.3,U/A 13+
+258,Golden Journey,Movie,11,English,2010,114,7.2,U/A 13+
+259,Last Mirage,Series,5,Tamil,2010,40,4.8,U/A 16+
+260,Secret Echo,Series,3,Kannada,2019,41,6.2,U/A 16+
+261,Burning Legacy,Movie,3,Hindi,2022,158,7.5,U
+262,Eternal Echo,Movie,5,Hindi,2017,177,6.7,U/A 16+
+263,Neon Gambit,Movie,8,Telugu,2020,134,8.1,U
+264,Electric Verdict,Series,7,Hindi,2017,39,6.9,U/A 16+
+265,Crimson Gambit,Movie,11,English,2014,123,6.8,U
+266,Fallen Empire,Series,10,Hindi,2013,71,7.9,U/A 13+
+267,Eternal Signal,Movie,5,Kannada,2014,139,6.5,U/A 16+
+268,Wild Horizon,Series,10,Telugu,2005,46,6.8,U/A 16+
+269,Electric Rivals,Movie,9,English,2016,140,6.9,U/A 16+
+270,Silent Legacy,Movie,11,English,2008,111,6.7,U/A 16+
+271,Wild Promise,Movie,1,Malayalam,2023,121,8.0,A
+272,Royal Tides,Series,7,Tamil,2021,47,6.1,A
+273,Last Verdict,Movie,8,English,2014,128,,A
+274,Royal Rivals,Series,3,Telugu,2017,55,5.7,U/A 13+
+275,Distant Verdict,Movie,8,Hindi,2005,130,4.7,U
+276,Broken Streets,Series,9,English,2016,57,8.3,U/A 16+
+277,Rising Rivals,Series,2,Telugu,2022,47,5.9,U/A 13+
+278,Neon Tides,Movie,12,English,2015,149,6.6,U/A 16+
+279,Wild Storm,Movie,12,Hindi,2022,84,8.4,U
+280,Golden Tides,Movie,4,Hindi,2006,146,6.7,U/A 16+
+281,Secret Legacy,Movie,3,English,2024,138,,U
+282,Hidden Journey,Movie,3,Telugu,2011,100,5.4,A
+283,Rising Echo,Movie,1,Tamil,2005,148,8.2,U/A 16+
+284,Frozen Signal,Series,1,Malayalam,2017,50,6.7,U
+285,Last Storm,Movie,4,Telugu,2017,153,5.8,U/A 16+
+286,Eternal Code,Series,8,Hindi,2007,42,5.8,U/A 16+
+287,Royal Kingdom,Movie,9,Telugu,2011,100,8.5,A
+288,Broken Empire,Movie,7,Tamil,2023,172,6.2,U/A 16+
+289,Secret Mirage,Movie,8,English,2008,99,5.8,U/A 16+
+290,Fallen Storm,Series,2,Kannada,2006,44,6.4,U/A 13+
+291,Hidden Tides,Series,12,Hindi,2021,29,6.8,U/A 16+
+292,Wild Journey,Movie,3,Telugu,2018,121,7.0,U
+293,Distant Chronicles,Series,5,Telugu,2014,42,7.2,A
+294,Lost Signal,Movie,8,Hindi,2011,131,7.0,U/A 16+
+295,Crimson Harvest,Movie,2,Tamil,2022,150,7.4,A
+296,Silent Mirage,Movie,6,Malayalam,2022,137,6.5,U/A 16+
+297,Lost Streets,Series,12,Hindi,2005,53,8.9,U/A 13+
+298,Frozen Harvest,Movie,3,English,2021,141,6.3,U/A 13+
+299,Distant Horizon,Movie,8,Tamil,2014,135,,U/A 13+
+300,Crimson Signal,Movie,8,Malayalam,2011,118,6.2,U/A 13+

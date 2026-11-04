@@ -1,0 +1,32 @@
+{
+  "name": "StreamVerse v2",
+  "dataColors": ["#8B5CF6", "#22D3EE", "#3B82F6", "#A78BFA", "#34D399", "#F472B6", "#FBBF24", "#60A5FA"],
+  "background": "#07090F",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#8B5CF6",
+  "good": "#34D399",
+  "neutral": "#FBBF24",
+  "bad": "#F87171",
+  "minimum": "#1E1B4B",
+  "center": "#8B5CF6",
+  "maximum": "#22D3EE",
+  "textClasses": {
+    "callout": { "fontSize": 28, "fontFace": "Segoe UI Semibold", "color": "#FFFFFF" },
+    "title": { "fontSize": 14, "fontFace": "Segoe UI Semibold", "color": "#FFFFFF" },
+    "header": { "fontSize": 12, "fontFace": "Segoe UI Semibold", "color": "#FFFFFF" },
+    "label": { "fontSize": 10, "fontFace": "Segoe UI", "color": "#9CA3AF" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#10131C" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#232838" } }, "radius": 8 }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#07090F" } }, "transparency": 0 }]
+      }
+    }
+  }
+}
